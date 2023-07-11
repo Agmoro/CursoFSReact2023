@@ -1,0 +1,144 @@
+html {
+    font-family: 'Belanosima', sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+body {
+    margin: 0px;
+    background-color: #F0F0C9;
+}
+
+header {
+    background: linear-gradient(to top, #6E0E0A, #390000);
+    margin: 0px;
+    border: 0px;
+    padding: 2rem 3rem;
+}
+
+header h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+nav {
+    background-color: #D74E09;
+    margin: 0px;
+    border: 0px;
+    padding: 1rem 2rem;
+}
+
+nav a {
+    color: #F2BB05;
+    font-size: 1.3rem;
+}
+
+nav a:link {
+    text-decoration: none;
+}
+
+nav a:visited {
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav a:active {
+    text-decoration: none;
+}
+
+.goog {
+    padding-left: 2rem;
+}
+
+.fa-brands.fa-google {
+    padding-right: 0.1rem;
+}
+
+.bgrande {
+    font-size: 1.75rem;
+}
+
+
+img {
+    float: left;
+    padding: 1rem 2rem;
+}
+
+div h2 {
+    background-color: rgba(18, 78, 120, 0.25);
+    border-radius: 0.75rem;
+    padding: 0.35rem 1rem;
+    margin-block-start: 0.7em;
+    box-shadow: 0.25rem 0.25rem 0.2rem rgba(18, 78, 120, 0.6);
+}
+
+div h3 {
+    padding-left: 2rem;
+}
+
+div ul {
+    list-style: inside;
+}
+
+.izquierda {
+    display: flex;
+    flex-direction: column;
+    margin-right: 1rem;
+}
+
+.content {
+    font-size: 1.1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    width: fit-content;
+
+}
+
+div p {
+    flex: 1;
+}
+
+footer {
+    background-color: #D74E09;
+    margin: 0px;
+    border: 0px;
+    padding: 1rem 2rem;
+}
+
+footer a {
+    color: #F2BB05;
+}
+
+footer a:link {
+    text-decoration: none;
+}
+
+footer a:visited {
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer a:active {
+    text-decoration: none;
+}
+
+.contact {
+    text-align: left;
+    padding: 0rem 2rem;
+}
+
+.fa-solid.fa-envelope {
+    padding-left: 0.5rem;
+}
+
+.fa-solid.fa-circle-up {
+    padding-left: 0.5rem;
+}
