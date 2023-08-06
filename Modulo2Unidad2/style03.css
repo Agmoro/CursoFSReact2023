@@ -1,0 +1,60 @@
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    height: 33%;
+    width: 100%;
+    margin: 0px;
+}
+
+section {
+    height: 100%;
+    width: 14.28%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+}
+
+section p {
+    color: white;
+    font-weight: bolder;
+    height: 0%;
+    margin: 0px;
+}
+
+.flexboy {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: static;
+    top: 0%;
+    left: 0%;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}

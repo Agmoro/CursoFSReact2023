@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%
+}
+
+div {
+    height: 100%;
+    width: 100%
+}
+
+section {
+    height: 33%;
+    width: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section p {
+    color: white;
+    font-weight: bolder;
+    height: 0%;
+}
+
+.flexboy {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 33%;
+    left: 0%;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
